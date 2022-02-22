@@ -52,6 +52,14 @@ career-profile:
       towards real-time problem solving and enhancing skills using the latest technologies. 
       Looking for a vibrant, challenging work environment to use my skills to best use 
       and grow with the organization.
+
+      -	Solid experience in developing web applications (mainly with web services) and working with best practices and clean architecture using Spring Boot with Java 11.
+      -	Experience in working with highly scalable, asynchronous EDA with AWS Cloud provider.
+      -	Proficient with using Docker and Kubernetes & basic AWS service for managing infrastructure & deployments.
+      -	Good communicator and skillful in working closely with distributed team and with client.
+      -	Strong analytical and problem-solving skills.
+      -	Quick learner, adaptable & actively involved in learning new technologies and software designs.
+
 education:
     - degree: B.Tech in Electronics and Telecommunication
       university: NIT Raipur, Chhattisgarh
@@ -108,23 +116,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript & Bash
+        level: 20%
 
-      - name: Angular
-        level: 98%
+      - name: Design Patterns (Domain Driven Design, Hexagonal Architecture, Event Driven Architecture, REST.)
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: DBMS (Postgres DB, DynamoDB & hands-on with Mongo Database and MySQL)
         level: 60%
+
+      - name: Tools (Git, AWS services, Agile (scrum methodology), Teams, Slack, JIRA, Confluence. draw.io.)
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
